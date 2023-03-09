@@ -3,8 +3,7 @@
 
 
 - 🔭 Hoje eu estou estudando front end e back end para trabalhar na área de programação
-- 🌱 Estou estudando HTML, CSS, Javascript e banco de dados.
-- 😄 Pronome: Ele/Dele
+- 🌱 Estou estudando HTML, CSS, Javascript/C# e banco de dados.
 
 ![Davi Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=Davivieira&theme=dark&show_icons=true)
 <div>
