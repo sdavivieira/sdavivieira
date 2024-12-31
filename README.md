@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Davi Vieira👋
 <div>
 🎓 Formado em Análise e Desenvolvimento de Sistemas
-💼 Desenvolvedor FullStack com foco no Backend
+💼 Desenvolvedor FullStack
 <br/>
 Atualmente, sou Desenvolvedor FullStack com prioridade no desenvolvimento Backend, onde sou responsável pela implementação e evolução de sistemas.
 🚀 Experiência com tecnologias:
