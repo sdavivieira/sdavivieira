@@ -2,6 +2,7 @@
 <div>
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 💼 Desenvolvedor FullStack com foco no Backend
+<br/>
 Atualmente, sou Desenvolvedor FullStack com prioridade no desenvolvimento Backend, onde sou responsável pela implementação e evolução de sistemas.
 🚀 Experiência com tecnologias:
 C#
@@ -9,6 +10,7 @@ JavaScript
 SQL Server
 </div>
 <div>
+<br/>
 📚 Campo de estudo e aprendizado contínuo:
 Estou sempre em busca de novas oportunidades para expandir meu conhecimento e aprimorar minhas habilidades, explorando novas tecnologias e abordagens no desenvolvimento de software.
 </div>
